@@ -5,8 +5,7 @@ Laravel – Rutas y Controladores
 
 
 
-
-Suárez García, Gonzalo Chrisjacq
+Garcia Ccencho Cristian Rufino
 
 
 
